@@ -12,7 +12,7 @@
 | `drill_03_username.py` |It will create intials and username |
 
 ## How to run
-First write file using code-:\n
+First write file using code-:
 %%writefile drill_01_temperature.py
 It will create a file.
 Use this code to this particular file-:
